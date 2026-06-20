@@ -12,7 +12,7 @@ env:
   IMAGE_TAG:       latest
   DOCKERFILE_PATH: Dockerfile
   ACR_REGISTRY:    crdigaz01.azurecr.io
-  APP_NAME:        myapp
+  APP_NAME:        myapp-jp
   ACI_NAME:        aci-myapp-jp
   RESOURCE_GROUP:  rgdigaz01
   LOCATION:        eastus
